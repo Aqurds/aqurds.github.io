@@ -1,0 +1,9 @@
+.logo-custom{
+	font-size:18px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+ul.ul-custom li a{
+	color:#000000 !important;
+}
