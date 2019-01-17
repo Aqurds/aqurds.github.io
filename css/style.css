@@ -7,3 +7,21 @@
 ul.ul-custom li a{
 	color:#000000 !important;
 }
+
+#blockquote-text{
+	font-size:18px;
+	text-align: center;
+	font-style: italic;
+	position: relative;
+}
+
+
+.content-custom, .content-custom-second{
+	background:#f8f8f8;
+	margin-top:50px;
+	padding:20px;
+}
+
+.content-custom-second{
+	padding:20px;
+}
