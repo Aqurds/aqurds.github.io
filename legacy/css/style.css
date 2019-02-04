@@ -1,0 +1,61 @@
+.logo-custom{
+	font-size:18px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+ul.ul-custom li a{
+	color:#000000 !important;
+}
+
+#blockquote-text{
+	font-size:18px;
+	text-align: center;
+	font-style: italic;
+	position: relative;
+}
+
+
+.content-custom, .content-custom-second{
+	background:#f8f8f8;
+	margin-top:50px;
+	padding:20px;
+}
+
+.content-custom-second{
+	padding:20px;
+}
+
+.custom-image-box{
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	position:relative;
+	margin-bottom:30px;
+}
+
+.Aqurds-image{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	opacity:1;
+}
+
+/*
+.Aqurds-image-mad{
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0px;
+	left:0px;
+	opacity:0;
+	transition: all .5s;
+}
+
+
+.custom-image-box:hover .Aqurds-image-mad{
+	opacity:1;
+}
+*/
